@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todo-fs2022": {
+      "hosting": {
+        "todo": [
+          "todo-fs2022"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todo-fs2022"
+  }
+}
